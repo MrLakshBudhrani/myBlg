@@ -1,0 +1,9 @@
+- Blog Application
+- Home Page
+    - Navigation Bar (Home, About, Contact Me)
+    - Image
+    - Header over image
+    - Why this page exists
+    - Footers
+- About Me
+- Contact Me
